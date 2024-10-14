@@ -10,7 +10,7 @@ public class PkmnApplication {
 
     public static void main(String[] args) {
 
-        String cardFilePath = "C:/Users/student/IdeaProjects/Pkmn/src/main/resources/my_card.txt";
+        String cardFilePath = "C:/Users/user/IdeaProjects/Pkmn/src/main/resources/my_card.txt";
 
         try {
 
