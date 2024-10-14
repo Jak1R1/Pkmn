@@ -1,0 +1,12 @@
+STAGE2
+Garchomp
+160
+DARKNESS
+C:/Users/student/IdeaProjects/Pkmn-master/src/main/resources/evolves_from.txt
+1C / Sonic Slip / Ability / Dragonblade / 160
+LIGHTNING
+FIGHTING
+1
+Silver Tempest
+F
+Kandarov / Ernest / Rafaelevich / БСБО-06-23
